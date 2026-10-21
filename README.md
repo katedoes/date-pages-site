@@ -12,6 +12,6 @@ python3 -m http.server 4321
 Then open http://localhost:4321.
 
 ## Notes
-- The brand name is a placeholder: `date pages` appears in the header and footer logos.
+- Brand: cupid gone rogue. `product.html` is a product page template with [BRACKET] placeholders.
 - Buttons point at `#` — the builder and the shop don't exist yet.
 - Planning docs, schema and supplier research live in a separate private repo.

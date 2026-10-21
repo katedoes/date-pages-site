@@ -3,9 +3,11 @@
 Static single page: `index.html` plus `img/`, both at the repo root. No build step.
 Public repo `katedoes/date-pages-site`, served by GitHub Pages from the root of `main`.
 
-The brand name is a placeholder in two places — the header logo and the footer logo, both
-`<span class="wordmark">date pages</span>`. Change both when the real name is decided, and
-update `<title>` and the og: tags with it.
+Brand: **cupid gone rogue**. The wordmark is in the header and footer logos of both pages
+(`<span class="wordmark">cupid gone <em>rogue</em></span>`), next to a heart-with-arrow mark.
+
+Pages: `index.html` (home, with the shop listing in `#shop`) and `product.html` (product page
+template; everything in [BRACKETS] is a placeholder).
 
 Photos in `img/` were taken from `~/Projects/date-kate/site/index.html`, where they are
 embedded as base64. If Kate replaces a photo there, re-export it here too.
